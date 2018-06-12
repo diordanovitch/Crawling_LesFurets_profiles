@@ -1,0 +1,500 @@
+1,Oui,1,317299,Amortissable,Fixe,1.6,25,0,0,Homme,25,Marié,08090,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+2,Oui,1,244610,Amortissable,Fixe,1.2,15,23,0,Femme,34,Célibataire,62760,Salarié,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Non,Caisse d'Epargne
+3,Oui,1,174539,Amortissable,Fixe,1.6,20,0,10,Homme,28,Pacs,02820,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Oui,Non,1,Résidence secondaire,Prêt signé,,Banque postale
+4,Oui,1,102166,Amortissable,Fixe,1.6,30,0,0,Homme,40,Marié,83630,Chef d'entreprise,CDI,,,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+5,Oui,1,107544,Amortissable,Fixe,2.5,20,0,0,Homme,43,Marié,71580,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+6,Oui,1,110571,Amortissable,Fixe,1.4,5,0,3,Homme,45,Pacs,31260,Salarié cadre,CDI,,,Oui,Non,1,Résidence principale,Prêt signé,,Société Générale
+7,Oui,1,89149,Amortissable,Fixe,1.8,25,0,0,Homme,25,Célibataire,30350,Salarié,,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+8,Oui,1,109719,Amortissable,Fixe,3,20,0,0,Homme,41,Marié,06540,Commerçant,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Autre
+9,Oui,1,301306,Amortissable,Fixe,1.8,5,0,0,Femme,27,Marié,26130,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Banque populaire
+10,Oui,1,244942,Amortissable,Fixe,1.6,25,0,1,Homme,42,Pacs,70210,Artisan,CDI,,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+11,Oui,1,193395,Amortissable,Fixe,2.5,25,0,5,Homme,32,Marié,06750,Artisan,,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+12,Oui,1,42452,Amortissable,Fixe,1.4,15,0,0,Homme,45,Divorcé,91830,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+13,Oui,1,91328,Amortissable,Fixe,2.5,15,0,4,Femme,46,Concubinage,32700,Salarié cadre,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,CIC
+14,Oui,1,188886,Amortissable,Fixe,1.2,25,0,0,Femme,54,Pacs,13740,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,CIC
+15,Oui,1,51493,Amortissable,Fixe,1.4,10,0,0,Homme,49,Divorcé,88260,Chef d'entreprise,CDI,,Plus de 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Société Générale
+16,Oui,1,92843,Amortissable,Fixe,3,25,0,0,Homme,40,Pacs,93460,Enseignant,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+17,Oui,1,104419,Amortissable,Fixe,1.2,20,0,0,Homme,31,Concubinage,77320,Salarié cadre,CDI,,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Credit Foncier de France
+18,Oui,1,133676,Amortissable,Fixe,3,25,0,0,Homme,40,Marié,93380,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Je ne sais pas
+19,Oui,1,128802,Amortissable,Fixe,1.2,25,0,0,Homme,38,Pacs,02380,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,CIC
+20,Oui,1,48507,Amortissable,Fixe,2,20,0,4,Homme,30,Marié,12290,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Non,Credit Agricole
+21,Oui,1,87965,Amortissable,Fixe,2,15,0,5,Homme,50,Marié,91440,Salarié,CDI,,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Société Générale
+22,Oui,1,244917,Amortissable,Fixe,1.4,10,0,0,Homme,36,Pacs,39240,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,CIC
+23,Oui,1,105024,Amortissable,Fixe,0,5,0,9,Homme,57,Concubinage,29350,Salarié,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Société Générale
+24,Oui,1,15787,Amortissable,Fixe,0,15,0,0,Homme,52,Célibataire,69700,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+25,Oui,1,194286,Amortissable,Fixe,1.2,10,0,0,Homme,56,Pacs,26340,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+26,Oui,1,235239,Amortissable,Fixe,3,20,0,0,Homme,48,Concubinage,13990,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+27,Oui,1,277447,Amortissable,Fixe,0,20,0,0,Homme,58,Marié,42800,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,HSBC
+28,Oui,1,174473,Amortissable,Fixe,1.4,5,0,0,Homme,39,Concubinage,95310,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit du Nord
+29,Oui,1,339370,Amortissable,Fixe,1.4,20,0,5,Homme,41,Marié,89140,Salarié,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Non,BNP Paribas
+30,Oui,1,198896,Amortissable,Fixe,1,10,0,0,Homme,30,Pacs,29570,Fonctionnaire,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Credit Agricole
+31,Oui,1,199715,Amortissable,Fixe,1.4,20,0,4,Femme,51,Marié,77230,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Société Générale
+32,Oui,1,184866,Amortissable,Fixe,1.6,15,0,5,Homme,25,Marié,91890,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+33,Oui,1,89241,Amortissable,Fixe,1.8,10,0,0,Homme,36,Marié,62760,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Société Générale
+34,Oui,1,51289,Amortissable,Fixe,3,25,0,2,Homme,40,Marié,95220,Chef d'entreprise,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+35,Oui,1,217301,Amortissable,Fixe,1.6,15,0,0,Homme,18,Marié,91450,Commerçant,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+36,Oui,1,440085,Amortissable,Variable,0,15,0,9,Homme,40,Pacs,95130,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+37,Oui,1,143695,Amortissable,Fixe,1.4,15,0,3,Homme,31,Célibataire,26230,Etudiant,,Temps plein,Moins de 15.000 km par an,Oui,oui,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+38,Oui,1,117941,Amortissable,Fixe,3,10,0,1,Femme,25,Marié,17120,Artisan,TNS,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+39,Oui,1,225857,Amortissable,Fixe,1.4,15,0,0,Homme,35,Marié,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,LCL
+40,Oui,1,399852,Amortissable,Fixe,1.4,30,0,2,Homme,49,Marié,38320,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Non,Credit Agricole
+41,Oui,1,248856,Amortissable,Fixe,2.5,20,0,6,Homme,46,Marié,91630,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+42,Oui,1,113410,Amortissable,Fixe,1.6,25,0,2,Homme,38,Pacs,26110,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,BNP Paribas
+43,Oui,1,150522,Amortissable,Fixe,1.2,10,0,0,Homme,42,Concubinage,67470,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,BNP Paribas
+44,Oui,1,14512,Amortissable,Fixe,1.6,25,0,0,Homme,34,Marié,68600,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Non,Credit mutuel
+45,Oui,1,104034,Amortissable,Fixe,2,25,0,1,Femme,38,Pacs,91630,Salarié cadre,TNS,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence secondaire,Prêt à signer,Oui,Je ne sais pas
+46,Oui,1,136927,Amortissable,Fixe,3,15,0,0,Femme,42,Marié,68600,Salarié,CDI,Temps plein,,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Société Générale
+47,Oui,1,71014,Amortissable,Fixe,2.5,15,0,4,Homme,33,Célibataire,25220,Salarié,,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Banque postale
+48,Oui,1,64332,Amortissable,Fixe,1.8,20,0,0,Femme,51,Concubinage,95130,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Immobilier de France
+49,Oui,1,210286,Amortissable,Fixe,3,25,0,0,Homme,51,Marié,26560,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+50,Oui,1,155434,Amortissable,Fixe,3,10,0,0,Homme,33,Marié,95560,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Foncier de France
+51,Oui,1,189344,Amortissable,Fixe,1.6,25,0,0,Homme,18,Concubinage,94110,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+52,Oui,1,221871,Amortissable,Fixe,2.5,20,0,2,Homme,40,Marié,48330,Recherche d'emploi,,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Credit Foncier de France
+53,Oui,1,48695,Amortissable,Fixe,1.8,15,0,2,Homme,33,Pacs,46200,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+54,Oui,1,89120,Amortissable,Fixe,1.8,20,0,2,Femme,39,Pacs,62760,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Credit Agricole
+55,Oui,1,106829,Amortissable,Fixe,2.5,20,0,0,Homme,43,Marié,22200,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Banque populaire
+56,Oui,1,113468,Amortissable,Fixe,1.8,25,0,0,Homme,38,Marié,69850,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Autre
+57,Oui,1,204879,Amortissable,Fixe,1.8,10,0,0,Homme,28,Marié,18310,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,,Banque postale
+58,Oui,1,77717,Amortissable,Fixe,1.4,5,0,0,Femme,25,Concubinage,31210,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+59,Oui,1,99601,Amortissable,Fixe,1,5,0,0,Homme,60,Marié,31320,Salarié cadre,CDI,,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit du Nord
+60,Oui,1,133985,Amortissable,Fixe,1.2,15,0,0,Homme,47,Concubinage,71850,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Autre
+61,Oui,1,196641,Amortissable,Fixe,1.6,15,0,0,Femme,37,Célibataire,91470,Artisan,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,BNP Paribas
+62,Oui,1,257330,Amortissable,Fixe,2,25,0,8,Homme,28,Concubinage,68440,Salarié,CDD,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+63,Oui,1,595216,Amortissable,Fixe,1.8,25,31,0,Homme,38,Marié,84340,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,CIC
+64,Oui,1,290628,Amortissable,Fixe,1,25,0,4,Homme,49,Concubinage,77630,Agriculteur,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,CIC
+65,Oui,1,50180,Amortissable,Fixe,1.6,20,0,4,Femme,24,Concubinage,69008,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+66,Oui,1,184383,Amortissable,Fixe,1.4,20,0,3,Homme,34,Marié,01390,Fonctionnaire,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,CIC
+67,Oui,1,374647,Amortissable,Fixe,1.6,15,0,0,Homme,41,Marié,77114,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,LCL
+68,Oui,1,12488,Amortissable,Fixe,1.4,15,0,0,Homme,27,Célibataire,67160,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+69,Oui,1,170582,Amortissable,Fixe,1.2,15,0,0,Homme,53,Marié,35390,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,Banque postale
+70,Oui,1,242974,Amortissable,Fixe,1.4,20,0,2,Femme,46,Marié,75116,Salarié cadre,,Temps plein,,Non,Non,1,Autres,Prêt signé,Non,Credit Agricole
+71,Oui,1,187664,Amortissable,Fixe,1,20,0,5,Homme,39,Marié,62760,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+72,Oui,1,124417,Amortissable,Fixe,1.6,10,0,3,Homme,35,Concubinage,94160,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+73,Oui,1,94249,Amortissable,Fixe,1,25,0,4,Homme,35,Concubinage,95450,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+74,Oui,1,169810,Amortissable,Fixe,2,20,36,0,Homme,29,Marié,03410,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,ING Direct
+75,Oui,1,247381,Amortissable,Fixe,1.8,5,0,5,Homme,25,Célibataire,35540,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,LCL
+76,Oui,1,138751,Amortissable,Fixe,2,25,12,0,Homme,46,Marié,03160,Salarié cadre,CDI,,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+77,Oui,1,241908,In Fine,Fixe,2,10,0,5,Femme,44,Marié,68490,Chef d'entreprise,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Autre
+78,Oui,1,186683,Amortissable,Fixe,1.4,10,0,0,Femme,20,Marié,43380,Salarié,,Temps plein,,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+79,Oui,1,176234,Amortissable,Fixe,1.4,25,0,0,Homme,47,Concubinage,32420,Salarié cadre,TNS,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+80,Oui,1,182583,Amortissable,Fixe,1.8,5,0,0,Homme,48,Concubinage,62760,Salarié cadre,Intérimaire,Temps plein,,Non,oui,1,Résidence principale,Prêt signé,Non,Credit mutuel
+81,Oui,1,150605,Amortissable,Fixe,3,15,0,0,Homme,38,Concubinage,08160,Salarié cadre,CDI,,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+82,Oui,1,122254,Amortissable,Fixe,1.4,10,0,0,Homme,30,Concubinage,95590,Au foyer,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Société Générale
+83,Oui,1,176805,Amortissable,Fixe,1.6,25,0,2,Homme,45,Célibataire,30190,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Autre
+84,Oui,1,287126,Amortissable,Fixe,1.2,25,0,3,Homme,30,Marié,94160,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,BNP Paribas
+85,Oui,1,142375,Amortissable,Fixe,2,0,0,0,Homme,31,Marié,95640,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Banque populaire
+86,Oui,1,70451,Amortissable,Fixe,1.6,20,0,4,Femme,43,Célibataire,80250,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+87,Oui,1,103972,Amortissable,Fixe,1.6,20,0,0,Femme,44,Concubinage,95690,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+88,Oui,1,127920,Amortissable,Fixe,1,25,0,10,Homme,27,Marié,24250,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+89,Oui,1,102068,Amortissable,Fixe,1.2,15,0,0,Homme,34,Concubinage,30360,Salarié,,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,BNP Paribas
+90,Oui,1,55975,Amortissable,Fixe,1,30,15,5,Femme,57,Marié,62760,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+91,Oui,1,147259,Amortissable,Fixe,1.4,25,0,9,Homme,28,Marié,26240,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Société Générale
+92,Oui,1,241190,Amortissable,Fixe,1.8,20,0,4,Homme,49,Marié,21310,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+93,Oui,1,175085,Amortissable,Fixe,2,5,0,2,Homme,37,Marié,47400,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+94,Oui,1,178423,Amortissable,Fixe,1.6,15,0,3,Femme,27,Concubinage,06390,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+95,Oui,1,124290,In Fine,Fixe,1.2,20,0,0,Femme,33,Marié,91740,Fonctionnaire,,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Banque postale
+96,Oui,1,319268,Amortissable,Fixe,1.4,10,0,0,Femme,46,Marié,33230,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+97,Oui,1,183182,Amortissable,Variable,1.4,10,0,4,Femme,52,Marié,21390,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit mutuel
+98,Oui,1,133171,Amortissable,Fixe,1.4,25,0,0,Homme,27,Divorcé,48190,Salarié cadre,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt à signer,Oui,BNP Paribas
+99,Oui,1,153987,Amortissable,Fixe,1.6,25,0,0,Homme,45,Marié,42360,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Je ne sais pas
+100,Oui,1,54363,Amortissable,Fixe,1.8,25,0,0,Femme,31,Concubinage,40370,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Investissement locatif,Prêt signé,Oui,Banque populaire
+101,Oui,1,57865,Amortissable,Fixe,1.4,25,0,0,Homme,47,Pacs,62760,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Credit Agricole
+102,Oui,1,11541,Amortissable,Variable,1.2,20,0,2,Homme,35,Marié,91820,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+103,Oui,1,175433,Amortissable,Fixe,3,20,0,4,Homme,44,Célibataire,05300,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence secondaire,Prêt signé,Non,Credit Agricole
+104,Oui,1,257541,Amortissable,Fixe,1.4,20,0,3,Homme,31,Célibataire,24310,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Banque postale
+105,Oui,1,93389,Amortissable,Fixe,1.4,20,0,4,Femme,68,Marié,76110,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Banque populaire
+106,Oui,1,200870,Amortissable,Fixe,1.6,25,0,4,Homme,49,Marié,01420,Salarié cadre,,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+107,Oui,1,200582,Amortissable,Variable,1.2,20,0,0,Homme,51,Marié,45490,Chef d'entreprise,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+108,Oui,1,157401,Amortissable,Fixe,1.6,25,0,2,Femme,27,Célibataire,88800,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Autre
+109,Oui,1,136231,Amortissable,Fixe,1.2,10,12,3,Homme,40,Marié,94600,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+110,Oui,1,124755,Amortissable,Fixe,1,5,0,0,Homme,32,Concubinage,91100,Salarié cadre,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+111,Oui,1,55865,Amortissable,Fixe,1.6,20,0,0,Femme,55,Célibataire,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+112,Oui,1,128367,Amortissable,Fixe,0,10,0,9,Homme,25,Marié,62760,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+113,Oui,1,201611,Amortissable,Fixe,1.8,25,0,3,Homme,41,Célibataire,88110,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Investissement locatif,Prêt signé,Oui,Credit mutuel
+114,Oui,1,263423,Amortissable,Fixe,1.4,15,0,3,Homme,31,Pacs,91720,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+115,Oui,1,281515,Amortissable,Fixe,1.6,5,0,1,Homme,39,Concubinage,95420,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,BNP Paribas
+116,Oui,1,255000,Amortissable,Fixe,1.2,15,0,0,Homme,44,Concubinage,41190,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Non,Société Générale
+117,Oui,1,89132,Amortissable,Fixe,2.5,25,0,5,Femme,25,Célibataire,47160,Fonctionnaire,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque populaire
+118,Oui,1,51580,Amortissable,Fixe,1.8,10,0,0,Femme,48,Concubinage,44130,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Boursorama
+119,Oui,1,56731,Amortissable,Fixe,1.6,20,0,3,Homme,41,Pacs,01430,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Credit mutuel
+120,Oui,1,232138,Amortissable,Fixe,1.2,10,0,2,Femme,26,Marié,69610,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,LCL
+121,Oui,1,180919,Amortissable,Fixe,1.4,15,0,0,Femme,50,Concubinage,07230,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,LCL
+122,Oui,1,342370,Amortissable,Fixe,1.8,10,0,0,Homme,50,Pacs,85800,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+123,Oui,1,128353,Amortissable,Fixe,1.4,25,0,5,Homme,45,Marié,84600,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+124,Oui,1,62235,Amortissable,Fixe,1.8,20,36,2,Homme,48,Divorcé,35137,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Société Générale
+125,Oui,1,197785,Amortissable,Fixe,1.4,20,0,0,Homme,31,Marié,24380,Salarié,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt à signer,,Credit mutuel
+126,Oui,1,136454,Amortissable,Fixe,2,25,0,2,Femme,28,Marié,88350,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+127,Oui,1,211836,Amortissable,Fixe,0,15,0,3,Homme,34,Célibataire,83830,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,CIC
+128,Oui,1,124514,Amortissable,Fixe,2.5,25,0,0,Femme,42,Marié,36150,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+129,Oui,1,124214,Amortissable,Fixe,4,20,0,0,Homme,55,Célibataire,95000,Salarié,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+130,Oui,1,132878,Amortissable,Fixe,2.5,15,2,1,Homme,49,Célibataire,77600,Fonctionnaire,CDI,Temps plein,,Oui,Non,1,Résidence principale,Prêt signé,,LCL
+131,Oui,1,228479,Amortissable,Fixe,1.8,20,0,3,Homme,29,Pacs,95220,Artisan,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+132,Oui,1,119292,Amortissable,Fixe,0,25,0,0,Homme,39,Marié,06500,Commerçant,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,BNP Paribas
+133,Oui,1,122289,Amortissable,Fixe,1.2,15,0,0,Homme,29,Marié,05110,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+134,Oui,1,128931,Amortissable,Fixe,1.2,15,0,0,Homme,49,Célibataire,15270,Salarié,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+135,Oui,1,163577,Amortissable,Fixe,1.2,25,0,0,Homme,30,Marié,40500,Recherche d'emploi,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+136,Oui,1,50073,Amortissable,Variable,1.4,25,0,4,Homme,49,Marié,42470,Fonctionnaire,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+137,Oui,1,223293,Amortissable,Fixe,1.2,5,36,0,Homme,29,Concubinage,95280,Salarié,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+138,Oui,1,136793,Amortissable,Fixe,1.4,25,0,2,Homme,41,Marié,95560,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt à signer,,Credit mutuel
+139,Oui,1,168353,Amortissable,Fixe,1.8,15,0,0,Homme,54,Célibataire,33430,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque populaire
+140,Oui,1,249022,Amortissable,Fixe,1.8,25,0,0,Femme,33,Concubinage,44420,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Autre
+141,Oui,1,55683,Amortissable,Fixe,1.8,20,0,0,Femme,39,Divorcé,88330,Salarié,CDI,Temps plein,,Oui,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+142,Oui,1,126109,Amortissable,Fixe,2,25,0,2,Femme,25,Pacs,95420,Au foyer,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Agricole
+143,Oui,1,343950,Amortissable,Fixe,2,10,0,5,Homme,39,Célibataire,40170,Fonctionnaire,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Société Générale
+144,Oui,1,174796,Amortissable,Fixe,1.2,15,0,1,Femme,41,Pacs,70000,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+145,Oui,1,232185,Amortissable,Fixe,1.4,20,0,0,Homme,41,Marié,62760,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Banque populaire
+146,Oui,1,290415,Amortissable,Fixe,1,25,0,0,Homme,39,Pacs,13015,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Non,Credit Foncier de France
+147,Oui,1,143139,Amortissable,Fixe,1,25,0,2,Homme,29,Marié,13123,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Société Générale
+148,Oui,1,421559,Amortissable,Fixe,4,10,23,8,Homme,39,Célibataire,95570,Au foyer,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+149,Oui,1,269394,Amortissable,Fixe,2,10,0,0,Homme,40,Marié,18510,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+150,Oui,1,214896,Amortissable,Fixe,1.4,10,0,0,Homme,53,Marié,16170,Au foyer,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+151,Oui,1,87248,Amortissable,Fixe,1.4,15,0,11,Homme,40,Pacs,91150,Fonctionnaire,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,,Banque postale
+152,Oui,1,506490,Amortissable,Fixe,2,15,0,1,Femme,39,Concubinage,95270,Salarié,,,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+153,Oui,1,158527,Amortissable,Fixe,1,15,0,4,Homme,42,Marié,42210,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,LCL
+154,Oui,1,118151,Amortissable,Fixe,2,20,9,1,Homme,52,Célibataire,13400,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Foncier de France
+155,Oui,1,146838,Amortissable,Fixe,1.8,10,0,0,Femme,65,Marié,38840,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+156,Oui,1,153021,Amortissable,Fixe,1.2,10,0,0,Femme,37,Marié,89130,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Banque populaire
+157,Oui,1,72802,Amortissable,Fixe,0,20,0,2,Homme,57,Concubinage,85460,Fonctionnaire,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+158,Oui,1,271720,Amortissable,Fixe,2.5,20,0,0,Homme,38,Célibataire,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Caisse d'Epargne
+159,Oui,1,147700,Amortissable,Fixe,1,15,0,0,Homme,49,Marié,47340,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Autres,Prêt signé,Oui,Banque populaire
+160,Oui,1,192696,Amortissable,Fixe,2,20,0,4,Homme,46,Pacs,13123,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,LCL
+161,Oui,1,122862,Amortissable,Fixe,1.8,15,2,2,Homme,27,Marié,78770,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+162,Oui,1,203987,Amortissable,Fixe,0,10,0,0,Homme,56,Pacs,11100,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,HSBC
+163,Oui,1,233876,Amortissable,Fixe,1.4,25,0,0,Homme,56,Marié,33620,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Banque populaire
+164,Oui,1,184377,Amortissable,Fixe,1.6,15,0,1,Homme,26,Divorcé,03500,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Credit Agricole
+165,Oui,1,94653,Amortissable,Fixe,1,15,30,0,Homme,27,Concubinage,02480,Salarié,TNS,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Société Générale
+166,Oui,1,243516,Amortissable,Fixe,1.6,15,0,5,Homme,42,Célibataire,81600,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+167,Oui,1,17907,Amortissable,Fixe,3,0,0,0,Homme,48,Marié,93270,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Caisse d'Epargne
+168,Oui,1,117017,Amortissable,Fixe,1.4,15,0,0,Homme,37,Célibataire,77000,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Autre
+169,Oui,1,137980,Amortissable,Fixe,1.8,10,0,0,Homme,44,Célibataire,38370,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+170,Oui,1,158102,Amortissable,Fixe,1.8,15,0,4,Homme,30,Marié,39300,Salarié,CDI,Temps plein,,Oui,Non,1,Résidence principale,Prêt signé,Non,Je ne sais pas
+171,Oui,1,176184,Amortissable,Fixe,2,10,0,4,Homme,41,Pacs,30530,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,BNP Paribas
+172,Oui,1,53546,Amortissable,Fixe,1.8,20,0,0,Homme,32,Marié,36340,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,BNP Paribas
+173,Oui,1,118548,Amortissable,Fixe,2,10,0,0,Femme,35,Marié,88420,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+174,Oui,1,205643,Amortissable,Fixe,1.8,10,0,2,Homme,36,Marié,95140,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Credit Agricole
+175,Oui,1,129218,Amortissable,Fixe,1.4,25,0,0,Homme,50,Marié,26190,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+176,Oui,1,168498,Amortissable,Fixe,1.6,15,1,3,Homme,49,Marié,84750,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Caisse d'Epargne
+177,Oui,1,136656,Amortissable,Fixe,1.8,25,0,0,Homme,38,Célibataire,02350,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,BNP Paribas
+178,Oui,1,146019,Amortissable,Fixe,0,5,0,3,Homme,37,Marié,31450,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+179,Oui,1,490518,Amortissable,Fixe,0,30,0,2,Homme,44,Marié,27300,Salarié,Intérimaire,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit mutuel
+180,Oui,1,214769,Amortissable,Fixe,1.2,15,0,3,Homme,58,Célibataire,95570,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Credit Agricole
+181,Oui,1,176780,Amortissable,Fixe,0,25,0,0,Homme,47,Marié,83330,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+182,Oui,1,239491,Amortissable,Fixe,1,25,0,0,Homme,57,Pacs,06390,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+183,Oui,1,277657,Amortissable,Fixe,0,10,0,0,Homme,40,Marié,34440,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+184,Oui,1,188138,Amortissable,Fixe,1.2,25,0,0,Homme,50,Divorcé,27510,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+185,Oui,1,240680,Amortissable,Fixe,2.5,5,0,5,Femme,58,Marié,06210,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+186,Oui,1,79870,Amortissable,Fixe,1.6,25,0,7,Homme,34,Concubinage,13220,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+187,Oui,1,120286,Amortissable,Fixe,2.5,25,0,4,Homme,33,Divorcé,11190,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+188,Oui,1,178477,Amortissable,Fixe,1.8,5,0,0,Homme,60,Marié,78710,Fonctionnaire,,,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,Oui,Société Générale
+189,Oui,1,119838,Amortissable,Fixe,3,20,0,13,Homme,47,Divorcé,40440,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,,Autre
+190,Oui,1,118624,Amortissable,Fixe,1.2,25,0,0,Homme,52,Marié,77580,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,LCL
+191,Oui,1,129325,Amortissable,Variable,2,25,0,0,Homme,30,Marié,40250,Salarié,,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit mutuel
+192,Oui,1,371303,Amortissable,Fixe,1.8,15,0,0,Femme,38,Concubinage,02600,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+193,Oui,1,381844,Amortissable,Fixe,1.8,15,0,4,Homme,42,Concubinage,77520,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,CIC
+194,Oui,1,107945,Amortissable,Fixe,2,15,0,1,Homme,31,Concubinage,38270,Salarié cadre,,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Banque populaire
+195,Oui,1,307568,Amortissable,Fixe,4,15,0,0,Homme,36,Marié,83110,Fonctionnaire,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Non,LCL
+196,Oui,1,76937,Amortissable,Fixe,1.4,20,0,10,Homme,36,Marié,62760,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Caisse d'Epargne
+197,Oui,1,231388,Amortissable,Fixe,1,10,0,0,Femme,32,Célibataire,62760,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+198,Oui,1,381778,Amortissable,Fixe,2,25,0,0,Femme,42,Célibataire,47160,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+199,Oui,1,216706,Amortissable,Fixe,1.8,15,0,2,Homme,43,Concubinage,13008,Salarié,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit Agricole
+200,Oui,1,85228,Amortissable,Variable,1.6,20,0,0,Homme,33,Concubinage,88300,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Foncier de France
+201,Oui,1,72304,Amortissable,Fixe,2,10,0,4,Femme,57,Pacs,94880,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+202,Oui,1,136301,Amortissable,Fixe,2.5,25,0,0,Femme,39,Célibataire,34700,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Autre
+203,Oui,1,83533,Amortissable,Fixe,1.6,25,0,3,Homme,36,Célibataire,30340,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Autre
+204,Oui,1,131010,Amortissable,Variable,1.8,25,0,0,Homme,31,Pacs,43260,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,CIC
+205,Oui,1,7864,Amortissable,Fixe,3,20,0,0,Homme,48,Pacs,19170,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Autre
+206,Oui,1,165613,Amortissable,Fixe,3,20,0,6,Femme,46,Marié,95870,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Autre
+207,Oui,1,131968,Amortissable,Fixe,1.2,20,0,3,Homme,39,Pacs,01260,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+208,Oui,1,197497,Amortissable,Fixe,2,25,0,1,Femme,43,Concubinage,78790,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Non,LCL
+209,Oui,1,12872,Amortissable,Fixe,1,25,0,3,Homme,36,Pacs,91580,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Non,Credit mutuel
+210,Oui,1,213267,Amortissable,Fixe,2.5,10,0,0,Homme,38,Marié,33930,Artisan,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+211,Oui,1,174725,Amortissable,Fixe,1.6,10,2,4,Homme,37,Célibataire,76890,Fonctionnaire,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+212,Oui,1,196610,Amortissable,Fixe,1.8,25,0,0,Homme,25,Marié,06750,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque populaire
+213,Oui,1,112802,Amortissable,Fixe,2,10,0,6,Homme,48,Célibataire,38460,Salarié,Saisonnier,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit Agricole
+214,Oui,1,137796,Amortissable,Fixe,1.6,20,0,2,Femme,43,Marié,77260,Commerçant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Société Générale
+215,Oui,1,198854,Amortissable,Fixe,1.2,25,0,4,Homme,52,Concubinage,26340,Salarié,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt à signer,,LCL
+216,Oui,1,239351,Amortissable,Fixe,4,25,0,2,Femme,33,Marié,06750,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,,Société Générale
+217,Oui,1,494837,Amortissable,Fixe,1.8,15,0,5,Homme,49,Marié,05700,Etudiant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+218,Oui,1,68349,Amortissable,Fixe,1.6,25,0,5,Femme,34,Marié,80640,Salarié cadre,,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+219,Oui,1,51131,Amortissable,Fixe,1.6,10,0,3,Homme,23,Concubinage,88270,Salarié cadre,CDI,,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+220,Oui,1,190521,Amortissable,Fixe,0,15,0,0,Homme,31,Divorcé,17210,Salarié cadre,CDI,Temps plein,Plus de 30.000 km par an,Oui,oui,1,Résidence principale,Prêt signé,Oui,Banque populaire
+221,Oui,1,241189,Amortissable,Fixe,0,10,0,2,Homme,38,Marié,18130,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit mutuel
+222,Oui,1,61529,Amortissable,Fixe,1.6,15,0,0,Homme,33,Célibataire,26160,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Boursorama
+223,Oui,1,171318,Amortissable,Fixe,1.8,15,0,4,Homme,51,Concubinage,85360,Salarié,CDI,,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,Oui,Credit Agricole
+224,Oui,1,155933,Amortissable,Fixe,1.8,25,0,0,Homme,37,Concubinage,77151,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+225,Oui,1,159644,Amortissable,Fixe,1.6,25,0,2,Homme,42,Concubinage,29300,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Foncier de France
+226,Oui,1,101175,Amortissable,Fixe,1.8,15,16,3,Femme,38,Marié,62760,Recherche d'emploi,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+227,Oui,1,362050,Amortissable,Fixe,2,10,0,4,Homme,53,Marié,44320,Salarié cadre,CDI,,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Société Générale
+228,Oui,1,317719,Amortissable,Variable,2,10,0,3,Homme,28,Concubinage,68120,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+229,Oui,1,154403,Amortissable,Fixe,1.6,15,0,0,Homme,49,Pacs,23160,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Caisse d'Epargne
+230,Oui,1,241216,Amortissable,Fixe,2.5,15,0,11,Homme,53,Célibataire,62760,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+231,Oui,1,65494,Amortissable,Fixe,1.2,20,0,3,Homme,40,Marié,77730,Salarié,CDD,,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+232,Oui,1,90267,Amortissable,Fixe,1.2,20,0,5,Homme,25,Divorcé,85120,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+233,Oui,1,155863,Amortissable,Fixe,2,5,0,5,Homme,33,Concubinage,32100,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit mutuel
+234,Oui,1,489447,Amortissable,Fixe,1.8,20,0,5,Femme,35,Marié,13810,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+235,Oui,1,29500,Amortissable,Fixe,0,5,0,0,Femme,37,Célibataire,08300,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,CIC
+236,Oui,1,213311,Amortissable,Fixe,1.2,5,0,3,Homme,45,Célibataire,38142,Salarié,TNS,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt à signer,,Credit mutuel
+237,Oui,1,100649,Amortissable,Fixe,1.4,20,0,5,Homme,55,Marié,62760,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Banque postale
+238,Oui,1,81983,Amortissable,Fixe,1.4,10,33,1,Homme,37,Marié,88300,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Caisse d'Epargne
+239,Oui,1,119363,Amortissable,Fixe,1.6,15,0,4,Homme,40,Célibataire,45140,Salarié cadre,,Temps plein,Entre 15.000 et 30.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+240,Oui,1,151291,Amortissable,Fixe,2,25,0,0,Homme,25,Marié,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+241,Oui,1,13885,Amortissable,Fixe,1,25,0,0,Homme,45,Célibataire,29250,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Boursorama
+242,Oui,1,177801,Amortissable,Fixe,1.6,15,0,2,Homme,44,Concubinage,41000,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+243,Oui,1,249617,Amortissable,Fixe,3,10,0,0,Femme,32,Marié,08130,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+244,Oui,1,110337,Amortissable,Fixe,1.6,20,0,5,Homme,23,Concubinage,29800,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+245,Oui,1,170391,Amortissable,Fixe,2,20,0,5,Homme,33,Concubinage,14570,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+246,Oui,1,49018,Amortissable,Fixe,2,20,0,5,Homme,44,Marié,13013,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+247,Oui,1,54986,Amortissable,Fixe,1,10,0,0,Femme,21,Célibataire,77230,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+248,Oui,1,264044,Amortissable,Fixe,1.8,25,5,4,Femme,84,Marié,11220,Fonctionnaire,CDD,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Credit Agricole
+249,Oui,1,157775,Amortissable,Fixe,1.6,20,0,2,Homme,57,Marié,95400,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Credit Foncier de France
+250,Oui,1,304794,Amortissable,Fixe,1.2,15,5,5,Homme,37,Pacs,14340,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+251,Oui,1,220436,Amortissable,Fixe,1,20,5,1,Homme,49,Célibataire,44670,Profession Libérale,,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Caisse d'Epargne
+252,Oui,1,192108,Amortissable,Fixe,1.2,15,0,2,Homme,55,Marié,44800,Agriculteur,,,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+253,Oui,1,148276,Amortissable,Variable,1.8,5,0,3,Homme,31,Divorcé,77400,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Banque populaire
+254,Oui,1,163027,Amortissable,Fixe,1.6,20,0,0,Homme,47,Pacs,62760,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+255,Oui,1,77729,Amortissable,Fixe,1.8,25,0,0,Homme,40,Divorcé,38380,Recherche d'emploi,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,Banque postale
+256,Oui,1,58509,Amortissable,Fixe,2.5,15,0,2,Homme,38,Célibataire,01500,Enseignant,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Autre
+257,Oui,1,54303,Amortissable,Fixe,1.2,15,2,0,Homme,52,Concubinage,31160,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+258,Oui,1,63258,Amortissable,Fixe,3,25,0,0,Femme,32,Marié,95260,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque postale
+259,Oui,1,185958,Amortissable,Fixe,2,0,21,5,Homme,29,Marié,32490,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Boursorama
+260,Oui,1,127768,Amortissable,Fixe,1.6,25,0,11,Homme,31,Marié,77710,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque populaire
+261,Oui,1,121205,Amortissable,Fixe,1.4,25,0,5,Femme,35,Marié,08090,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,BNP Paribas
+262,Oui,1,31697,Amortissable,Fixe,1.2,10,0,3,Homme,53,Divorcé,69700,Salarié cadre,TNS,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,Oui,Caisse d'Epargne
+263,Oui,1,98774,Amortissable,Fixe,2.5,25,0,1,Homme,42,Concubinage,62760,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,Je ne sais pas
+264,Oui,1,600000,Amortissable,Fixe,1.2,25,0,2,Femme,35,Marié,39600,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+265,Oui,1,81359,Amortissable,Fixe,0,25,0,0,Homme,28,Pacs,06220,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Caisse d'Epargne
+266,Oui,1,274219,Amortissable,Fixe,4,20,0,1,Homme,57,Célibataire,44390,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+267,Oui,1,46673,Amortissable,Fixe,1.6,25,0,0,Homme,43,Célibataire,13008,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+268,Oui,1,235214,Amortissable,Fixe,2,25,0,5,Homme,48,Pacs,41700,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Credit Agricole
+269,Oui,1,122037,Amortissable,Fixe,2,20,2,1,Homme,38,Pacs,19200,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Je ne sais pas
+270,Oui,1,115357,Amortissable,Fixe,1.6,30,0,0,Homme,50,Concubinage,06390,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+271,Oui,1,200582,Amortissable,Fixe,1.4,10,0,0,Homme,34,Marié,31460,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+272,Oui,1,245211,Amortissable,Fixe,1.2,10,0,5,Homme,41,Divorcé,16250,Fonctionnaire,TNS,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Non,Société Générale
+273,Oui,1,38886,Amortissable,Fixe,1.2,25,0,3,Homme,48,Célibataire,89340,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Agricole
+274,Oui,1,175060,Amortissable,Fixe,2.5,20,0,0,Homme,34,Marié,81570,Salarié,CDD,Temps plein,Entre 15.000 et 30.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+275,Oui,1,135449,Amortissable,Fixe,1.4,10,0,3,Homme,35,Marié,13480,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+276,Oui,1,144345,Amortissable,Fixe,3,20,0,4,Femme,50,Marié,67130,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Non,BNP Paribas
+277,Oui,1,136605,Amortissable,Fixe,1.6,25,0,0,Homme,51,Marié,47520,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Banque populaire
+278,Oui,1,121538,Amortissable,Fixe,1.4,0,0,4,Homme,37,Marié,44200,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+279,Oui,1,270249,Amortissable,Fixe,1.4,25,0,9,Femme,42,Pacs,38660,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+280,Oui,1,135810,Amortissable,Fixe,3,25,4,2,Femme,26,Concubinage,77760,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+281,Oui,1,336182,Amortissable,Fixe,4,15,0,0,Homme,36,Célibataire,74300,Salarié cadre,,,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,CIC
+282,Oui,1,360296,Amortissable,Fixe,1.4,15,0,0,Homme,30,Pacs,91150,Salarié,CDI,,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,,CIC
+283,Oui,1,62100,Amortissable,Fixe,1.2,20,0,0,Homme,49,Célibataire,48190,Salarié cadre,,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,LCL
+284,Oui,1,162841,Amortissable,Fixe,1.4,20,12,1,Homme,43,Concubinage,78640,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+285,Oui,1,291271,Amortissable,Fixe,1.6,25,0,0,Femme,35,Concubinage,31810,Profession Libérale,,Temps plein,Moins de 15.000 km par an,Oui,oui,1,Résidence principale,Prêt signé,Non,CIC
+286,Oui,1,351935,Amortissable,Fixe,1,20,0,5,Homme,48,Célibataire,48400,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+287,Oui,1,39515,Amortissable,Fixe,1.8,25,0,8,Homme,34,Marié,80640,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+288,Oui,1,102644,Amortissable,Variable,0,25,0,8,Homme,32,Concubinage,25470,Fonctionnaire,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt à signer,Non,HSBC
+289,Oui,1,181680,Amortissable,Fixe,1.8,15,0,11,Homme,40,Concubinage,01310,Fonctionnaire,,,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,AXA banque
+290,Oui,1,137716,Amortissable,Fixe,1.2,20,0,0,Homme,47,Marié,03130,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+291,Oui,1,122064,Amortissable,Fixe,2,10,0,3,Femme,35,Célibataire,80500,Profession Libérale,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt signé,,Société Générale
+292,Oui,1,406178,Amortissable,Fixe,1.8,10,0,0,Homme,39,Marié,06360,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,AXA banque
+293,Oui,1,164391,Amortissable,Fixe,1.4,20,0,4,Homme,42,Célibataire,29440,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+294,Oui,1,190332,Amortissable,Fixe,2,20,0,1,Homme,37,Marié,77400,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,BNP Paribas
+295,Oui,1,217944,Amortissable,Variable,2,15,0,5,Homme,43,Marié,26510,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+296,Oui,1,134170,Amortissable,Fixe,1.4,10,0,8,Homme,33,Célibataire,26410,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+297,Oui,1,168464,Amortissable,Fixe,1.4,20,0,0,Homme,52,Célibataire,49540,Salarié,,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+298,Oui,1,78104,Amortissable,Fixe,2,15,0,0,Homme,28,Marié,38110,Salarié,CDI,Temps plein,,Oui,Non,1,Autres,Prêt à signer,,Credit Foncier de France
+299,Oui,1,183272,Amortissable,Fixe,1.4,5,0,7,Homme,39,Célibataire,30260,Salarié,,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit du Nord
+300,Oui,1,127645,Amortissable,Fixe,1.4,10,0,0,Homme,51,Célibataire,25420,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+301,Oui,1,114728,Amortissable,Fixe,2,20,0,0,Homme,27,Concubinage,06540,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Banque populaire
+302,Oui,1,283508,Amortissable,Fixe,1,10,0,2,Homme,48,Célibataire,26160,Chef d'entreprise,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,BNP Paribas
+303,Oui,1,91320,Amortissable,Fixe,2,0,0,0,Homme,56,Concubinage,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Boursorama
+304,Oui,1,147608,Amortissable,Fixe,1.6,25,0,0,Homme,39,Marié,93230,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Oui,oui,1,Résidence principale,Prêt signé,Non,Credit Agricole
+305,Oui,1,92722,Amortissable,Fixe,1.6,15,0,0,Femme,31,Célibataire,33190,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+306,Oui,1,148474,Amortissable,Fixe,1.4,20,0,0,Femme,44,Marié,05700,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+307,Oui,1,30940,Amortissable,Fixe,1.8,15,0,5,Homme,40,Concubinage,78490,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+308,Oui,1,262259,Amortissable,Fixe,1.6,20,28,7,Homme,44,Concubinage,29530,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,oui,1,Résidence principale,Prêt à signer,,Credit Agricole
+309,Oui,1,166550,Amortissable,Fixe,1.8,0,0,5,Homme,35,Divorcé,14100,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+310,Oui,1,10770,Amortissable,Fixe,2.5,5,0,0,Homme,44,Marié,91100,Salarié cadre,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt signé,,Je ne sais pas
+311,Oui,1,82702,Amortissable,Fixe,1.2,10,0,0,Homme,54,Marié,08460,Salarié cadre,CDI,,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+312,Oui,1,75599,Amortissable,Fixe,2.5,15,0,0,Femme,40,Célibataire,46300,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Credit Foncier de France
+313,Oui,1,346676,Amortissable,Fixe,1.6,20,0,0,Homme,38,Célibataire,95340,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Non,Banque postale
+314,Oui,1,275023,Amortissable,Fixe,2,5,0,3,Homme,45,Marié,30320,Fonctionnaire,CDI,,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+315,Oui,1,208438,Amortissable,Fixe,0,15,0,4,Homme,30,Concubinage,06420,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,CIC
+316,Oui,1,159917,Amortissable,Fixe,1.2,15,0,1,Femme,47,Concubinage,40150,Fonctionnaire,TNS,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Credit Foncier de France
+317,Oui,1,118475,Amortissable,Fixe,1.6,20,0,0,Homme,61,Célibataire,77710,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Boursorama
+318,Oui,1,76063,Amortissable,Fixe,1.2,0,0,3,Femme,36,Marié,95780,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+319,Oui,1,160553,Amortissable,Fixe,1.4,20,4,0,Homme,54,Pacs,95640,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+320,Oui,1,55743,Amortissable,Fixe,2.5,10,0,4,Homme,39,Célibataire,42210,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,CIC
+321,Oui,1,182584,Amortissable,Fixe,1.4,25,0,0,Femme,56,Concubinage,95450,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Société Générale
+322,Oui,1,233163,Amortissable,Fixe,1.6,25,0,0,Homme,42,Célibataire,78730,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,,Credit Agricole
+323,Oui,1,58208,Amortissable,Fixe,1.2,10,0,0,Homme,42,Concubinage,77230,Artisan,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+324,Oui,1,271198,Amortissable,Fixe,3,20,0,0,Homme,47,Marié,39400,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Banque populaire
+325,Oui,1,177764,Amortissable,Fixe,2,30,0,0,Femme,37,Célibataire,26560,Recherche d'emploi,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+326,Oui,1,68433,Amortissable,Fixe,1.6,20,0,0,Homme,32,Marié,45600,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Autre
+327,Oui,1,157438,Amortissable,Fixe,1.2,15,0,4,Femme,31,Concubinage,91470,Etudiant,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+328,Oui,1,116680,Amortissable,Fixe,0,20,10,4,Homme,41,Marié,42800,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+329,Oui,1,96206,Amortissable,Fixe,4,20,36,5,Homme,49,Célibataire,17460,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,CIC
+330,Oui,1,150532,Amortissable,Fixe,3,5,0,9,Homme,51,Célibataire,08460,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+331,Oui,1,99584,Amortissable,Fixe,1.8,10,0,0,Femme,32,Pacs,31220,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+332,Oui,1,271522,Amortissable,Fixe,1.2,20,0,0,Homme,49,Concubinage,62760,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Caisse d'Epargne
+333,Oui,1,96119,Amortissable,Fixe,1.6,10,17,4,Homme,48,Marié,85800,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Barclays
+334,Oui,1,116512,Amortissable,Fixe,2.5,15,0,1,Homme,43,Divorcé,95840,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,ING Direct
+335,Oui,1,178948,Amortissable,Fixe,1.2,5,0,0,Femme,33,Célibataire,45550,Fonctionnaire,,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+336,Oui,1,154150,Amortissable,Fixe,0,25,0,4,Femme,24,Célibataire,28160,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Non,Autre
+337,Oui,1,87087,Amortissable,Fixe,2,10,25,4,Homme,56,Célibataire,95570,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Foncier de France
+338,Oui,1,151599,Amortissable,Fixe,2.5,10,0,3,Homme,33,Célibataire,80600,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Non,LCL
+339,Oui,1,127439,Amortissable,Fixe,1.4,20,0,4,Homme,51,Concubinage,95810,Chef d'entreprise,CDI,,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Caisse d'Epargne
+340,Oui,1,218539,Amortissable,Fixe,1.4,30,0,0,Homme,35,Marié,31420,Artisan,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Je ne sais pas
+341,Oui,1,190784,Amortissable,Fixe,1.6,15,0,2,Femme,39,Marié,91230,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit mutuel
+342,Oui,1,177870,Amortissable,Fixe,2,25,0,5,Homme,41,Célibataire,24190,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Je ne sais pas
+343,Oui,1,826,Amortissable,Fixe,4,15,0,1,Homme,55,Célibataire,31800,Salarié cadre,CDI,,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+344,Oui,1,45967,Amortissable,Fixe,1.8,25,0,0,Homme,42,Concubinage,36160,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+345,Oui,1,235351,Amortissable,Fixe,1.8,25,0,3,Homme,30,Concubinage,62760,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Non,Je ne sais pas
+346,Oui,1,113646,Amortissable,Fixe,2,15,0,0,Homme,32,Marié,72800,Salarié,CDI,,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+347,Oui,1,191905,Amortissable,Fixe,2.5,10,0,0,Femme,47,Marié,62760,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+348,Oui,1,87918,Amortissable,Fixe,1.6,10,0,3,Homme,32,Marié,72110,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Foncier de France
+349,Oui,1,219675,Amortissable,Fixe,1.4,20,14,1,Homme,64,Marié,91720,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence secondaire,Prêt à signer,Oui,Credit Agricole
+350,Oui,1,252531,Amortissable,Fixe,1.2,0,0,0,Homme,52,Pacs,62760,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Non,Credit Agricole
+351,Oui,1,46233,Amortissable,Fixe,1.2,5,0,2,Homme,42,Marié,21240,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Société Générale
+352,Oui,1,232158,Amortissable,Variable,2,20,0,4,Homme,39,Marié,05400,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit mutuel
+353,Oui,1,167327,Amortissable,Fixe,1.6,20,0,2,Homme,30,Marié,93390,Chef d'entreprise,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+354,Oui,1,76572,Amortissable,Fixe,1.8,30,0,4,Homme,30,Marié,44420,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+355,Oui,1,232819,Amortissable,Fixe,1.4,20,14,1,Homme,26,Célibataire,30840,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Banque populaire
+356,Oui,1,279550,Amortissable,Fixe,2.5,15,0,4,Homme,31,Célibataire,06310,Chef d'entreprise,CDI,Temps plein,,Oui,Non,1,Résidence principale,Prêt à signer,,Société Générale
+357,Oui,1,86529,Amortissable,Fixe,2,25,0,0,Femme,34,Pacs,27520,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+358,Oui,1,129244,Amortissable,Fixe,2.5,15,0,0,Femme,42,Marié,88390,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+359,Oui,1,40776,Amortissable,Fixe,1.4,15,5,5,Homme,37,Marié,28210,Chef d'entreprise,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Société Générale
+360,Oui,1,71477,Amortissable,Fixe,1.6,15,0,0,Homme,30,Séparé,24590,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Société Générale
+361,Oui,1,324129,Amortissable,Fixe,2,20,0,2,Femme,39,Marié,30250,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+362,Oui,1,184376,Amortissable,Fixe,1.6,25,0,4,Homme,43,Célibataire,33170,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Autre
+363,Oui,1,101575,Amortissable,Fixe,2,15,0,5,Femme,46,Marié,91400,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Autre
+364,Oui,1,746,Amortissable,Fixe,2,20,4,2,Homme,49,Marié,25660,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Non,Credit mutuel
+365,Oui,1,406072,Amortissable,Fixe,2,25,0,1,Homme,45,Célibataire,95460,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Caisse d'Epargne
+366,Oui,1,134036,Amortissable,Fixe,0,20,0,5,Homme,38,Pacs,19310,Artisan,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Banque postale
+367,Oui,1,174904,Amortissable,Fixe,2,10,0,0,Homme,38,Concubinage,44320,Salarié,,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+368,Oui,1,96875,Amortissable,Fixe,1.6,20,0,3,Femme,38,Célibataire,80240,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+369,Oui,1,54762,Amortissable,Fixe,2.5,15,0,5,Homme,27,Célibataire,62760,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque postale
+370,Oui,1,484254,Amortissable,Fixe,4,15,0,8,Homme,43,Marié,95270,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+371,Oui,1,126354,Amortissable,Fixe,1.4,10,0,5,Homme,49,Pacs,62760,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Autre
+372,Oui,1,600000,Amortissable,Fixe,1.6,15,0,3,Homme,35,Célibataire,01190,Chef d'entreprise,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+373,Oui,1,306194,Amortissable,Fixe,1.4,25,36,0,Homme,33,Pacs,88270,Salarié cadre,TNS,,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Credit Agricole
+374,Oui,1,138494,Amortissable,Fixe,2,20,0,0,Homme,25,Marié,93100,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+375,Oui,1,135802,Amortissable,Fixe,2,15,0,0,Femme,49,Célibataire,24460,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+376,Oui,1,212699,Amortissable,Fixe,1.8,15,0,1,Homme,30,Célibataire,44320,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+377,Oui,1,148249,Amortissable,Fixe,1.6,20,0,0,Homme,39,Marié,80160,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Caisse d'Epargne
+378,Oui,1,86735,Amortissable,Fixe,1.8,20,0,0,Homme,37,Pacs,43150,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+379,Oui,1,375097,Amortissable,Fixe,0,25,0,4,Homme,51,Marié,16200,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+380,Oui,1,186002,Amortissable,Fixe,1.6,25,0,4,Femme,57,Marié,38460,Salarié cadre,CDI,,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,LCL
+381,Oui,1,183182,Amortissable,Fixe,1.8,25,0,7,Homme,35,Marié,85300,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,,Credit mutuel
+382,Oui,1,310388,Amortissable,Fixe,1,20,0,5,Homme,42,Marié,13008,Salarié cadre,,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Banque postale
+383,Oui,1,191400,Amortissable,Fixe,2.5,15,0,0,Homme,39,Marié,72170,Salarié,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit du Nord
+384,Oui,1,265273,Amortissable,Fixe,2.5,5,0,0,Homme,33,Célibataire,83210,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+385,Oui,1,159187,Amortissable,Fixe,1,10,0,0,Femme,49,Marié,92420,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+386,Oui,1,181484,Amortissable,Fixe,1.4,10,0,4,Homme,59,Marié,88330,Salarié,,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+387,Oui,1,243471,Amortissable,Fixe,1.8,25,0,0,Homme,35,Marié,34700,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Caisse d'Epargne
+388,Oui,1,70969,Amortissable,Fixe,2,15,0,0,Homme,31,Concubinage,30126,Salarié cadre,Intérimaire,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Je ne sais pas
+389,Oui,1,242441,Amortissable,Fixe,1.4,5,14,0,Homme,50,Marié,38970,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,Oui,Credit du Nord
+390,Oui,1,24889,Amortissable,Fixe,1.4,25,0,0,Homme,51,Marié,33490,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Non,Banque populaire
+391,Oui,1,200080,Amortissable,Fixe,1,10,0,0,Homme,44,Concubinage,03140,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+392,Oui,1,120562,Amortissable,Fixe,1.6,10,0,0,Homme,40,Célibataire,01600,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+393,Oui,1,191315,Amortissable,Fixe,1.6,20,0,0,Homme,27,Marié,95300,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt à signer,Oui,Je ne sais pas
+394,Oui,1,268678,Amortissable,Fixe,1,5,0,0,Homme,46,Célibataire,84510,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Oui,Caisse d'Epargne
+395,Oui,1,105642,Amortissable,Fixe,2,15,0,0,Homme,30,Marié,35190,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,,Credit Agricole
+396,Oui,1,119212,Amortissable,Fixe,1.2,15,0,0,Homme,25,Célibataire,77260,Salarié,TNS,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit Agricole
+397,Oui,1,143366,Amortissable,Fixe,1.4,25,0,1,Homme,59,Concubinage,34720,Fonctionnaire,CDI,Temps plein,,Non,Non,1,Autres,Prêt signé,Oui,Je ne sais pas
+398,Oui,1,320442,Amortissable,Fixe,1.4,20,0,0,Homme,45,Célibataire,33550,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Foncier de France
+399,Oui,1,334427,Amortissable,Fixe,1.2,5,10,0,Homme,23,Pacs,18410,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Immobilier de France
+400,Oui,1,137646,Amortissable,Fixe,1.4,25,0,4,Homme,45,Pacs,27210,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+401,Oui,1,108084,Amortissable,Fixe,1.6,30,0,0,Homme,47,Marié,17630,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Je ne sais pas
+402,Oui,1,111357,Amortissable,Fixe,1.6,15,0,0,Homme,33,Marié,27430,Salarié,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,LCL
+403,Oui,1,93500,Amortissable,Fixe,2,15,0,5,Homme,33,Marié,31230,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+404,Oui,1,216356,Amortissable,Fixe,1.4,10,0,1,Homme,25,Concubinage,95220,Commerçant,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Oui,Autre
+405,Oui,1,158814,Amortissable,Fixe,1.6,15,0,0,Homme,46,Marié,77510,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+406,Oui,1,166597,Amortissable,Fixe,1.6,20,0,0,Homme,25,Marié,73500,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+407,Oui,1,383557,Amortissable,Fixe,1.4,10,0,4,Homme,51,Marié,45760,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit mutuel
+408,Oui,1,158425,Amortissable,Variable,1.6,20,0,3,Femme,29,Célibataire,78710,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Autre
+409,Oui,1,168366,Amortissable,Fixe,1,15,0,0,Femme,43,Marié,85340,Au foyer,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Caisse d'Epargne
+410,Oui,1,119767,Amortissable,Fixe,1.2,25,0,3,Femme,26,Marié,77950,Salarié cadre,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Banque postale
+411,Oui,1,158369,Amortissable,Fixe,1.6,15,0,0,Femme,51,Pacs,77114,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+412,Oui,1,113231,Amortissable,Fixe,1.8,15,1,1,Homme,40,Pacs,91930,Profession Libérale,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Société Générale
+413,Oui,1,199941,Amortissable,Fixe,1,5,0,0,Homme,34,Divorcé,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt signé,Oui,Caisse d'Epargne
+414,Oui,1,84340,Amortissable,Fixe,1.8,10,0,2,Homme,44,Pacs,77139,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,,Credit Agricole
+415,Oui,1,140508,Amortissable,Fixe,1.4,25,0,7,Homme,37,Célibataire,16170,Salarié cadre,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+416,Oui,1,126058,Amortissable,Variable,1.6,15,0,0,Homme,39,Marié,62760,Profession Libérale,,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Je ne sais pas
+417,Oui,1,458470,Amortissable,Fixe,2,20,0,0,Homme,38,Veuf,47140,Salarié cadre,CDI,Temps plein,,Non,Non,1,Investissement locatif,Prêt signé,Oui,Je ne sais pas
+418,Oui,1,152132,Amortissable,Fixe,1.2,5,0,0,Femme,55,Marié,15230,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt à signer,,LCL
+419,Oui,1,61864,Amortissable,Fixe,2,10,4,1,Homme,31,Célibataire,08220,Salarié cadre,CDI,Temps plein,Plus de 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Je ne sais pas
+420,Oui,1,188269,Amortissable,Fixe,2.5,25,0,3,Homme,40,Marié,13250,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque postale
+421,Oui,1,161185,Amortissable,Fixe,1.4,25,0,3,Homme,34,Marié,95690,Salarié,CDI,,,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+422,Oui,1,193744,Amortissable,Fixe,1.2,15,0,5,Homme,30,Marié,62760,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale
+423,Oui,1,195216,Amortissable,Fixe,1.4,20,0,0,Homme,66,Marié,62760,Salarié,CDI,,Moins de 15.000 km par an,Non,oui,1,Investissement locatif,Prêt à signer,,BNP Paribas
+424,Oui,1,64864,Amortissable,Fixe,1.8,10,0,3,Homme,32,Marié,95560,Profession Libérale,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+425,Oui,1,54846,Amortissable,Fixe,1.4,20,0,0,Homme,36,Célibataire,30360,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence secondaire,Prêt à signer,Oui,BNP Paribas
+426,Oui,1,171675,Amortissable,Fixe,3,15,23,2,Homme,64,Marié,94270,Fonctionnaire,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Autres,Prêt signé,,Société Générale
+427,Oui,1,89215,Amortissable,Fixe,1.2,5,0,6,Homme,33,Concubinage,72400,Salarié cadre,,Temps plein,,Oui,Non,1,Résidence principale,Prêt signé,Oui,Autre
+428,Oui,1,76418,Amortissable,Fixe,2,15,0,3,Homme,33,Marié,72350,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,BNP Paribas
+429,Oui,1,178672,Amortissable,Fixe,1.4,15,0,0,Homme,39,Célibataire,05400,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,CIC
+430,Oui,1,5370,Amortissable,Fixe,1.8,25,0,1,Femme,30,Concubinage,31420,Agriculteur,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,BNP Paribas
+431,Oui,1,183128,Amortissable,Fixe,1.8,20,0,0,Homme,40,Marié,17130,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,LCL
+432,Oui,1,348360,Amortissable,Fixe,0,20,0,3,Homme,31,Concubinage,08400,Enseignant,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,CIC
+433,Oui,1,53694,Amortissable,Fixe,1.4,30,0,0,Homme,47,Célibataire,68440,Etudiant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+434,Oui,1,195789,Amortissable,Fixe,1.6,10,0,10,Homme,33,Célibataire,91410,Chef d'entreprise,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Je ne sais pas
+435,Oui,1,145437,Amortissable,Fixe,1.8,15,0,0,Femme,35,Célibataire,19160,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Investissement locatif,Prêt à signer,Oui,Banque populaire
+436,Oui,1,131046,Amortissable,Fixe,2,20,0,4,Homme,28,Célibataire,88320,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Non,Banque populaire
+437,Oui,1,118771,In Fine,Fixe,1.8,25,0,1,Homme,33,Marié,94110,Agriculteur,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Credit Agricole
+438,Oui,1,211319,Amortissable,Fixe,0,15,0,0,Femme,53,Marié,29510,Salarié,CDI,Temps partiel,,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Credit Agricole
+439,Oui,1,78343,Amortissable,Fixe,1,20,0,0,Homme,37,Marié,88330,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Credit Agricole
+440,Oui,1,107376,Amortissable,Fixe,1.2,15,0,4,Homme,48,Marié,88170,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Caisse d'Epargne
+441,Oui,1,104846,Amortissable,Fixe,2,25,0,0,Homme,35,Célibataire,02470,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt à signer,Non,Banque populaire
+442,Oui,1,111977,Amortissable,Fixe,1.6,20,0,4,Homme,27,Marié,30210,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit Agricole
+443,Oui,1,312783,In Fine,Fixe,1,15,0,0,Homme,28,Pacs,28360,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Autre
+444,Oui,1,105645,In Fine,Fixe,1.4,20,0,0,Femme,57,Marié,95450,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Caisse d'Epargne
+445,Oui,1,48885,Amortissable,Fixe,1.2,15,0,0,Homme,35,Pacs,37160,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+446,Oui,1,200491,Amortissable,Fixe,2.5,25,0,3,Homme,32,Concubinage,95880,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Société Générale
+447,Oui,1,294125,Amortissable,Fixe,1.6,20,0,3,Femme,38,Célibataire,24140,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Banque populaire
+448,Oui,1,148989,Amortissable,Fixe,1.6,25,0,0,Homme,32,Pacs,26570,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,CIC
+449,Oui,1,145538,Amortissable,Fixe,1,10,0,5,Homme,42,Séparé,84220,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,,BNP Paribas
+450,Oui,1,137469,Amortissable,Fixe,1.2,20,0,4,Homme,57,Pacs,62760,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Je ne sais pas
+451,Oui,1,216144,Amortissable,Fixe,1,25,0,0,Femme,42,Célibataire,77440,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+452,Oui,1,134636,Amortissable,Fixe,1.8,25,0,3,Homme,36,Concubinage,95220,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+453,Oui,1,124104,Amortissable,Fixe,1.2,0,0,3,Homme,72,Marié,14350,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Credit Agricole
+454,Oui,1,204397,Amortissable,Fixe,1.2,20,0,3,Homme,51,Marié,27170,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,LCL
+455,Oui,1,294251,Amortissable,Fixe,1.4,25,0,11,Femme,20,Marié,02210,Salarié,TNS,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt à signer,Oui,Credit Agricole
+456,Oui,1,127208,Amortissable,Fixe,2,5,0,2,Homme,38,Séparé,35140,Salarié,TNS,,,Non,Non,1,Résidence principale,Prêt à signer,Oui,CIC
+457,Oui,1,158497,Amortissable,Fixe,1.8,25,0,4,Homme,41,Célibataire,27000,Salarié cadre,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Banque postale
+458,Oui,1,33675,Amortissable,Fixe,2,5,0,0,Homme,44,Concubinage,07100,Artisan,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Foncier de France
+459,Oui,1,297937,Amortissable,Fixe,2,10,0,2,Homme,26,Marié,13140,Fonctionnaire,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque populaire
+460,Oui,1,109489,Amortissable,Fixe,1.4,15,0,0,Femme,36,Marié,44130,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+461,Oui,1,222248,Amortissable,Fixe,3,20,0,2,Homme,50,Célibataire,91520,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit mutuel
+462,Oui,1,55838,Amortissable,Fixe,1.4,25,0,0,Femme,40,Concubinage,33126,Salarié,CDI,Temps plein,Entre 15.000 et 30.000 km par an,Non,oui,1,Résidence principale,Prêt à signer,Oui,Boursorama
+463,Oui,1,138581,Amortissable,Fixe,1,25,15,5,Homme,57,Marié,45480,Salarié,,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+464,Oui,1,113364,Amortissable,Fixe,2,10,0,5,Homme,25,Marié,48190,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Banque populaire
+465,Oui,1,54692,Amortissable,Fixe,1.8,20,0,4,Homme,32,Marié,21260,Profession Libérale,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+466,Oui,1,600000,Amortissable,Fixe,1.2,15,8,3,Femme,26,Pacs,08460,Enseignant,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+467,Oui,1,223379,Amortissable,Fixe,2,15,0,0,Homme,48,Célibataire,02820,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,,LCL
+468,Oui,1,154299,Amortissable,Fixe,1.2,20,0,0,Homme,38,Marié,01260,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Oui,Banque populaire
+469,Oui,1,64844,Amortissable,Fixe,4,20,0,0,Homme,48,Concubinage,31210,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Oui,Non,1,Résidence principale,Prêt signé,,Credit mutuel
+470,Oui,1,149978,Amortissable,Fixe,1.4,15,0,0,Femme,38,Marié,38270,Agriculteur,,Temps plein,Moins de 15.000 km par an,Non,oui,1,Investissement locatif,Prêt signé,Oui,Banque postale
+471,Oui,1,82691,Amortissable,Fixe,1.2,20,0,0,Homme,57,Célibataire,30900,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+472,Oui,1,43950,Amortissable,Fixe,1.2,15,0,0,Homme,37,Célibataire,38121,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+473,Oui,1,125078,Amortissable,Fixe,1.8,25,0,0,Homme,38,Concubinage,32800,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Je ne sais pas
+474,Oui,1,56627,Amortissable,Fixe,1,25,0,5,Homme,36,Concubinage,89290,Etudiant,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+475,Oui,1,246152,Amortissable,Fixe,1.6,15,0,2,Homme,37,Marié,77320,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Banque populaire
+476,Oui,1,117955,Amortissable,Fixe,1.4,20,0,3,Homme,44,Marié,38710,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit Agricole
+477,Oui,1,113110,Amortissable,Fixe,2.5,25,0,8,Femme,39,Célibataire,72340,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,Oui,Boursorama
+478,Oui,1,85504,Amortissable,Fixe,1.8,0,0,0,Femme,35,Pacs,33210,Profession Libérale,,Temps plein,Entre 15.000 et 30.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,Non,Banque populaire
+479,Oui,1,77974,Amortissable,Fixe,1.4,5,0,4,Homme,45,Marié,13008,Salarié,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Non,Credit Agricole
+480,Oui,1,75417,Amortissable,Fixe,2,10,0,5,Homme,41,Marié,24800,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+481,Oui,1,111091,Amortissable,Fixe,1.6,25,0,0,Homme,55,Marié,29380,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+482,Oui,1,51748,Amortissable,Fixe,1.4,20,9,0,Homme,50,Marié,91590,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Caisse d'Epargne
+483,Oui,1,228310,Amortissable,Fixe,1.8,20,0,8,Femme,44,Marié,77230,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,,Autre
+484,Oui,1,65577,Amortissable,Fixe,1.6,15,0,5,Homme,45,Marié,27630,Salarié cadre,Intérimaire,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Credit Foncier de France
+485,Oui,1,234939,Amortissable,Fixe,2,20,0,4,Homme,40,Concubinage,73370,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt à signer,Oui,Banque postale
+486,Oui,1,111014,Amortissable,Fixe,1.8,20,0,0,Femme,45,Concubinage,38460,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque populaire
+487,Oui,1,70642,Amortissable,Fixe,2.5,25,0,1,Femme,32,Marié,83920,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,,Caisse d'Epargne
+488,Oui,1,165467,Amortissable,Fixe,3,25,0,7,Homme,26,Pacs,13013,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,oui,1,Résidence principale,Prêt signé,Oui,Credit Agricole
+489,Oui,1,287923,Amortissable,Fixe,1.2,20,0,4,Homme,34,Marié,62760,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Société Générale
+490,Oui,1,250572,Amortissable,Fixe,3,10,0,0,Homme,30,Marié,91100,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,Société Générale
+491,Oui,1,103535,Amortissable,Fixe,1.4,20,22,0,Homme,34,Marié,31120,Salarié,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt à signer,Non,Credit mutuel
+492,Oui,1,328549,Amortissable,Fixe,2.5,20,0,0,Femme,45,Célibataire,13720,Fonctionnaire,CDI,,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,Oui,Credit mutuel
+493,Oui,1,192054,Amortissable,Fixe,1,10,0,4,Homme,30,Concubinage,84510,Fonctionnaire,CDI,Temps partiel,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt à signer,,Credit Foncier de France
+494,Oui,1,192365,Amortissable,Fixe,1.8,15,0,5,Homme,50,Marié,62760,Salarié cadre,CDI,Temps plein,,Non,Non,1,Résidence principale,Prêt signé,Oui,Je ne sais pas
+495,Oui,1,191930,Amortissable,Fixe,1,15,0,1,Femme,51,Pacs,27580,Salarié,CDI,Temps plein,,Oui,Non,1,Résidence principale,Prêt à signer,,Credit Agricole
+496,Oui,1,125078,Amortissable,Fixe,1.2,20,0,0,Homme,50,Marié,38480,Salarié,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Autres,Prêt signé,,CIC
+497,Oui,1,33750,Amortissable,Fixe,1.6,25,0,1,Homme,27,Concubinage,62760,Fonctionnaire,CDD,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Credit Foncier de France
+498,Oui,1,339820,Amortissable,Fixe,1.4,15,0,0,Homme,47,Marié,17620,Fonctionnaire,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence secondaire,Prêt signé,,Credit Agricole
+499,Oui,1,405947,Amortissable,Fixe,2,20,0,0,Homme,48,Marié,31480,Fonctionnaire,,Temps plein,Moins de 15.000 km par an,Non,Non,1,Investissement locatif,Prêt signé,,AXA banque
+500,Oui,1,100786,Amortissable,Fixe,2,20,0,1,Homme,48,Pacs,68210,Salarié cadre,CDI,Temps plein,Moins de 15.000 km par an,Non,Non,1,Résidence principale,Prêt signé,Oui,Banque postale

@@ -1,14 +1,17 @@
+import pandas as pd
+import numpy as np
+import random as rd
+import csv 
 
-# coding: utf-8
-
-# In[12]:
+from random import*
+from datetime import datetime
 
 
 
 
 class profil:
-    def __init__(self,ID, nombre_pret, montant, type_emprunt, type_taux, taux, durée_emprunt, différé, 
-                 debut_emprunt, sexe, age, situation_matrimoniale, code_postal, profession, type_contrat, 
+    def __init__(self,ID, age, nombre_pret, montant, type_emprunt, type_taux, taux, durée_emprunt, différé, 
+                 debut_emprunt, sexe, situation_matrimoniale, code_postal, profession, type_contrat, 
                  duree_travail, deplacement_pro, manipulation_objet, fumeur,nombre_emprunteur, quelle_part,
                  objet,emprunt_vigueur,emprunt_signe,banque_preteuse):
         self.ID = ID
@@ -48,7 +51,7 @@ class profil:
         print("Taux : " , self.taux, " : %")
         print("Durée de l'emprunt : ",self.durée_emprunt,"  : ans")
         print("Durée du différé : ",self.différé, "  : mois")
-        print("Début de l'emprunt : ", self.debut_emprunt, " : jours")
+        print("Délai avant emprunt : ", self.debut_emprunt, " : mois")
         print("Sexe : " ,self.sexe)
         print("Age : ",self.age, " : ans")
         print("Statut : ", self.situation_matrimoniale)
@@ -61,9 +64,9 @@ class profil:
         print("Fumeur : ", self.fumeur)
         print("Pour quelle part du pret etre assuré : ", self.quelle_part)
         print("Quel est l'objet du prêt : ", self.objet)
-        print("L'emprunt est-il déjà signé  : ", self.emprunt_vigueur)
+        print("L'emprunt est-il déjà signé ? : ", self.emprunt_vigueur)
         print("L'emprunt est-il signé depuis plus d'un an ? : ", self.emprunt_signe)
-        print("Quelle est la banque prêteuse : ", self.banque_preteuse)
+        print("Quelle est la banque prêteuse ? : ", self.banque_preteuse)
     
     def imprl(self):
         print(self.ID,":",self.nombre_emprunteur,":", self.nombre_pret,":", self.montant,":", 
@@ -73,12 +76,20 @@ class profil:
               self.type_contrat,":",self.duree_travail,":",self.deplacement_pro,":",
               self.manipulation_objet,":",self.fumeur,":",self.quelle_part,":",self.objet,":",
               self.emprunt_vigueur,":",self.emprunt_signe,":",self.banque_preteuse)
+        
+    def listp(self):
+        return([self.ID,self.nombre_emprunteur, self.nombre_pret, self.montant, 
+              self.type_emprunt, self.type_taux , self.taux,self.durée_emprunt,
+              self.différé, self.debut_emprunt,self.sexe,self.age,
+              self.situation_matrimoniale,self.code_postal,self.profession,
+              self.type_contrat,self.duree_travail,self.deplacement_pro,
+              self.manipulation_objet,self.fumeur,self.quelle_part,self.objet,
+              self.emprunt_vigueur,self.emprunt_signe,self.banque_preteuse])
 
 
 
 
-from random import*
-from datetime import datetime
+
 
 def test (n):
     for j in range (0,len(n)):
@@ -103,20 +114,6 @@ def genalea (d,n):
     return(liste)
 
 
-
-def genalea2 (d,n):
-    liste=[]
-    for i in range (0,len(n)):
-        while (n[i]!=0):
-            if i==len(n)-1:
-                liste.append(d[i])
-            else:
-                liste.append(randint(d[i],d[i+1]-0.1))
-            n[i]=n[i]-1
-    return(liste)
-
-
-
 def genstrict (d,n):
     liste=[]
     for i in range (0,len(n)):
@@ -124,6 +121,12 @@ def genstrict (d,n):
             liste.append(d[i])
             n[i]=n[i]-1
     return(liste)
+
+
+
+
+CP_all = pd.read_csv('CP_all.csv')
+
 
 XLDage=[18,	25,	30,	35,	40,	45,	50,	55,	60,	65,	70,	75,90];
 XLNage=[10,	55,	90,	100,	85,	75,	45,	30,	5,	3,	1,	1,0];
@@ -233,10 +236,10 @@ NBDureeDeTravail = NB()
 
 
 
-XLDRegion = ["Ile-de-France","Rhône-Alpes","Provence-Alpes-Côte d'Azur","Nord","Aquitaine","Midi-Pyrénées",
-          "Pays-de-la-Loire","Languedoc","Centre","Bretagne","Alsace","Lorraine","Normandie",
-          "Picardie","Bourgogne","Poitou-Charente","Auvergne","Champagne",
-          "Franche-Comté","Limousin","Corse"];
+XLDRegion = ["Ile_de_France","Rhone_Alpes","PACA","Nord_pas_de_Calais","Aquitaine","Midi_Pyrenees",
+          "Pays_de_la_Loire","Languedoc","Centre","Bretagne","Alsace","Lorraine","Normandie",
+          "Picardie","Bourgogne","Poitou_Charente","Auvergne","Champagne",
+          "Franche_Comte","Limousin","Corse"];
 XLNRegion = [110,55,50,35,30,25,25,25,20,15,10,15,15,15,10,10,10,10,10,5,0]
 Region = genstrict(XLDRegion,XLNRegion)
 NBRegion = NB()
@@ -261,20 +264,12 @@ NBEmpruntSigneDepuis1an = NB()
 
 
 
-XLDBanquePreteuse = ["Je ne sais pas", "AXA banque", "Banque populaire", "Banque postale", "Barclays", "BNP Paribas", "Boursorama", "Caisse d'Epargne", "CIC", "Credit Agricole", "Credit du Nord", "Credit Foncier de France", "Credit Immobilier de France", "Credit mutuel", "HSBC", "ING Direct", "LCL", "Société Générale", "Autre"]
-XLNBanquePreteuse = [41,3,38,31,0,26,8,59,22,117,5,18,2,44,3,2,26,30,24]
+XLDBanquePreteuse = ["Je ne sais pas", "AXA banque", "Banque populaire", "Banque postale", "Barclays", "BNP Paribas", 
+                     "Boursorama", "Caisse d'Epargne", "CIC", "Credit Agricole", "Credit du Nord", "Credit Foncier de France", 
+                     "Credit Immobilier de France", "Credit mutuel", "HSBC", "ING Direct", "LCL", "Société Générale", "Autre"]
+XLNBanquePreteuse = [41,3,38,31,1,26,8,59,22,117,5,18,2,44,3,2,26,30,24]
 BanquePreteuse = genstrict(XLDBanquePreteuse,XLNBanquePreteuse)
 NBBanquePreteuse = NB()
-
-
-CD = []
-
-def codePostal(n):
-    c=randint(0,39200)
-    while (((CD[c])//(1000))!=n):
-        c=randint(0,39200)
-    return (CD[c])
-
 
 
 
@@ -288,7 +283,8 @@ NB =[NBage,NBNombreDePretAAssurer,NBMontant,NBTypeDemprunt,NBTypeDeTaux,NBTaux,N
 
 Crit =[age,NombreDePretAAssurer,Montant,TypeDemprunt,TypeDeTaux,Taux,DureeDuPret,DifféréDamortissement,
        DelaiDebutEmprunt,Sexe,SatutMatrimoniale,Region,Profession,TypeDeContrat,DureeDeTravail,
-       DeplacementProfessionel,ManipulationObjetLourd,Fumeur,EmprunteurUnique,QuellePart, Objet, EmpruntEnVigueur, EmpruntSigneDepuis1an,        BanquePreteuse]
+       DeplacementProfessionel,ManipulationObjetLourd,Fumeur,EmprunteurUnique,QuellePart, Objet, EmpruntEnVigueur, 
+       EmpruntSigneDepuis1an, BanquePreteuse]
 
 
 
@@ -298,7 +294,7 @@ Crit =[age,NombreDePretAAssurer,Montant,TypeDemprunt,TypeDeTaux,Taux,DureeDuPret
 
 liste_profil=[]
 j=0
-while j<272:
+while j<500:
     i=0
     variables=[]
     
@@ -308,8 +304,13 @@ while j<272:
         while a==0: # dans ce cas ça veut dire qu'on a déjà ajouté cette version du critère
             k=randint(0,len(NB[i])-1)
             a=NB[i][k]
-            
-   
+        
+        if i==11:
+            r = Crit[i][k]
+            cp = int ( CP_all[CP_all['REGION'] == r] ['Code_postal'].sample(n=1) )
+            cp = str(cp).zfill(5)
+            variables.append(cp)
+
         else:
             variables.append(Crit[i][k])
         NB[i][k]=NB[i][k]-1 # 1 version du critère ajoutée, donc on passe son index à 0
@@ -321,9 +322,11 @@ while j<272:
                                variables[20],variables[21],variables[22],variables[23]))
     j=j+1
 
-for m in range(0,len(liste_profil)):
-    profil.imprl(liste_profil[m])
+    
+    
 
-##print(datetime.now().date().month)
-
-
+for p in range(0,len(liste_profil)):
+    profil.imprl(liste_profil[p])
+    with open("Profiles_LF.csv", "a", newline="") as file :
+        Profiles_LF = csv.writer(file)
+        Profiles_LF.writerow(profil.listp(liste_profil[p]))
