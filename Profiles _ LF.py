@@ -1,3 +1,7 @@
+# Code to generate the set of 500 profiles for Les Furets crawling, set in june 2018.
+# As there are many conditions to generate the set, the code will not work at each time, you have to repeat until it works.
+
+
 import pandas as pd
 import numpy as np
 import random as rd
@@ -78,13 +82,11 @@ class profil:
               self.emprunt_vigueur,":",self.emprunt_signe,":",self.banque_preteuse)
         
     def listp(self):
-        return([self.ID,self.nombre_emprunteur, self.nombre_pret, self.montant, 
-              self.type_emprunt, self.type_taux , self.taux,self.durée_emprunt,
-              self.différé, self.debut_emprunt,self.sexe,self.age,
-              self.situation_matrimoniale,self.code_postal,self.profession,
-              self.type_contrat,self.duree_travail,self.deplacement_pro,
-              self.manipulation_objet,self.fumeur,self.quelle_part,self.objet,
-              self.emprunt_vigueur,self.emprunt_signe,self.banque_preteuse])
+        return(["FUR2018", self.ID, "FUR2018_"+str(self.ID), self.nombre_emprunteur, self.nombre_pret, self.montant, self.type_emprunt,
+                self.type_taux, self.taux, self.durée_emprunt, self.différé, self.debut_emprunt, self.sexe, self.age,
+                self.situation_matrimoniale, self.code_postal, self.profession, self.type_contrat, self.duree_travail,
+                self.deplacement_pro,self.manipulation_objet,self.fumeur,self.quelle_part, "", self.objet, 
+                self.emprunt_vigueur, self.emprunt_signe,self.banque_preteuse])
 
 
 
@@ -113,6 +115,18 @@ def genalea (d,n):
             n[i]=n[i]-1
     return(liste)
 
+def genalea_rate (d,n):
+    liste=[]
+    for i in range (0,len(n)):
+        while (n[i]!=0):
+            if i==len(n)-1:
+                liste.append(d[i])
+            else:
+                liste.append( round ( rd.uniform(d[i],d[i+1]) ,2))
+            n[i]=n[i]-1
+    return(liste)
+
+
 
 def genstrict (d,n):
     liste=[]
@@ -135,10 +149,10 @@ NBage=NB()
 
 XLDDDP = [0,5,10,15,20,25,30,50];
 XLNDDP = [10,35,80,115,125,125,10]
-DureeDuPret = genstrict(XLDDDP,XLNDDP)
+DureeDuPret = genalea(XLDDDP,XLNDDP)
 NBDureeDuPret = NB()
 
-XLDfumeur = ["oui","Non"]
+XLDfumeur = ["Oui","Non"]
 XLNfumeur = [55,	445]
 Fumeur = genstrict(XLDfumeur,XLNfumeur);
 NBfumeur = NB()
@@ -151,18 +165,18 @@ NBTypeDemprunt = NB()
 XLDprofession = ["Agriculteur",	"Artisan", "Au foyer", 	"Chef d'entreprise",	"Commerçant" ,	"Enseignant",	"Etudiant",	
                  "Fonctionnaire",	"Salarié",	"Salarié cadre",	"Sans Profession",	"Recherche d'emploi",	
                  "Retraité",	"Ouvrier",	"Profession du spectacle",	"Profession Libérale",	"VRP"]
-XLNprofession = [5,	10,	5,	20,	5,	10,	5,	75,	190,	155,	0,	5,	0,	0,	0,	15,	0]
+XLNprofession = [5,	10,	5,	20,	5,	10,	5,	73,	189,	153,	0,	5,	5,	0,	0,	15,	0]
 Profession = genstrict(XLDprofession,XLNprofession)
 NBProfession = NB()
 
 
 XLDDP = ["Moins de 15.000 km par an","Entre 15.000 et 30.000 km par an" ,"Plus de 30.000 km par an", ""]
-XLNDP = [360,	59,	21, 60]
+XLNDP = [389,	76,	15, 20]
 DeplacementProfessionel = genstrict(XLDDP,XLNDP)
 NDDeplacementProfessionel = NB()
 
-XLDManipulationObjetLourd = ["Oui","Non"];
-XLNManipulationObjetLourd = [55,	445]
+XLDManipulationObjetLourd = ["Oui","Non", ""];
+XLNManipulationObjetLourd = [45,	435, 20]
 ManipulationObjetLourd = genstrict(XLDManipulationObjetLourd,XLNManipulationObjetLourd)
 NBManipulationObjetLourd = NB()
 
@@ -172,7 +186,7 @@ NombreDePretAAssurer = genstrict(XLDNombreDePretAAssurer,XLNNombreDePretAAssurer
 NBNombreDePretAAssurer = NB()
 
 
-XLDMontant = [0,50000,100000,150000,200000,250000,300000,350000,400000,450000,500000,550000,600000]
+XLDMontant = [1000,50000,100000,150000,200000,250000,300000,350000,400000,450000,500000,550000,600000]
 XLNMontant = [30,	90,	130,	110,	65,	30,	20,	10,	5,	5,	1,	1,	3]
 Montant = genalea(XLDMontant,XLNMontant)
 NBMontant = NB()
@@ -200,7 +214,7 @@ NBDelaiDebutEmprunt = NB()
 
 XLDTaux = [0,1,1.2,1.4,1.6,1.8,2,2.5,3,4,10];
 XLNTaux = [25,	35,	65,	85,	80,	70,	70,	35,	25,	10,0]
-Taux = genstrict(XLDTaux,XLNTaux)
+Taux = genalea_rate(XLDTaux,XLNTaux)
 NBTaux = NB()
 
 XLDQuellePart = [1,0.9,0.8,0.7,0.6,0.5,0.4,0.3,0.2,0.1];
@@ -214,7 +228,7 @@ TypeDeTaux = genstrict(XLDTypeDeTaux,XLNTypeDeTaux)
 NBTypeDeTaux = NB()
 
 XLDSexe = ["Homme","Femme"]
-XLNSexe = [390,	110]
+XLNSexe = [300,	200]
 Sexe = genstrict(XLDSexe,XLNSexe)
 NBSexe = NB()
 
@@ -224,13 +238,13 @@ SatutMatrimoniale = genstrict(XLDSatutMatrimoniale,XLNSatutMatrimoniale)
 NBStatutMatrimoniale = NB()
 
 XLDTypeDeContrat = ["CDI","CDD","Intérimaire","Saisonnier","TNS", ""];
-XLNTypeDeContrat = [413,	10,	4,	1,	12, 60]
+XLNTypeDeContrat = [420,	35,	10,	5,	10, 20]
 TypeDeContrat = genstrict(XLDTypeDeContrat,XLNTypeDeContrat)
 NBTypeDeContrat = NB()
 
 
 XLDDureeDeTravail = ["Temps plein","Temps partiel", ""];
-XLNDureeDeTravail = [425,15,60]
+XLNDureeDeTravail = [450,30,20]
 DureeDeTravail = genstrict(XLDDureeDeTravail,XLNDureeDeTravail)
 NBDureeDeTravail = NB()
 
@@ -277,14 +291,13 @@ NBBanquePreteuse = NB()
 
 
 NB =[NBage,NBNombreDePretAAssurer,NBMontant,NBTypeDemprunt,NBTypeDeTaux,NBTaux,NBDureeDuPret,
-     NBDifféréDamortissmeent,NBDelaiDebutEmprunt,NBSexe,NBStatutMatrimoniale,NBRegion,NBProfession,
-     NBTypeDeContrat,NBDureeDeTravail,NDDeplacementProfessionel,NBManipulationObjetLourd,NBfumeur,
-     NBEmprunteurUnique,NBQuellePart, NBObjet, NBEmpruntEnVigueur, NBEmpruntSigneDepuis1an, NBBanquePreteuse]
+     NBDifféréDamortissmeent,NBDelaiDebutEmprunt,NBSexe,NBStatutMatrimoniale,NBRegion,NBQuellePart,
+     NBfumeur,NBEmprunteurUnique,NBProfession, NBManipulationObjetLourd, NBTypeDeContrat, NBDureeDeTravail, 
+     NDDeplacementProfessionel,NBObjet,NBEmpruntEnVigueur, NBEmpruntSigneDepuis1an, NBBanquePreteuse]
 
 Crit =[age,NombreDePretAAssurer,Montant,TypeDemprunt,TypeDeTaux,Taux,DureeDuPret,DifféréDamortissement,
-       DelaiDebutEmprunt,Sexe,SatutMatrimoniale,Region,Profession,TypeDeContrat,DureeDeTravail,
-       DeplacementProfessionel,ManipulationObjetLourd,Fumeur,EmprunteurUnique,QuellePart, Objet, EmpruntEnVigueur, 
-       EmpruntSigneDepuis1an, BanquePreteuse]
+       DelaiDebutEmprunt,Sexe,SatutMatrimoniale,Region,QuellePart,Fumeur,EmprunteurUnique, Profession, ManipulationObjetLourd,
+       TypeDeContrat,DureeDeTravail, DeplacementProfessionel,Objet, EmpruntEnVigueur, EmpruntSigneDepuis1an, BanquePreteuse]
 
 
 
@@ -294,6 +307,7 @@ Crit =[age,NombreDePretAAssurer,Montant,TypeDemprunt,TypeDeTaux,Taux,DureeDuPret
 
 liste_profil=[]
 j=0
+e=0
 while j<500:
     i=0
     variables=[]
@@ -301,29 +315,189 @@ while j<500:
     for i in range(0,len(Crit)):
         k=randint(0,len(NB[i])-1)
         a=NB[i][k]
+        
         while a==0: # dans ce cas ça veut dire qu'on a déjà ajouté cette version du critère
             k=randint(0,len(NB[i])-1)
             a=NB[i][k]
         
-        if i==11:
+        if i==11: # on tire un code postal aléatoirement de la région
             r = Crit[i][k]
             cp = int ( CP_all[CP_all['REGION'] == r] ['Code_postal'].sample(n=1) )
             cp = str(cp).zfill(5)
             variables.append(cp)
+        
 
-        else:
+            
+            
+        elif i==6: # durée en fonction de montant : -de 15 ans pour -de 50.000
+            if variables[2] < 50000:
+                while Crit[i][k]>15 or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+
+            else:        
+                variables.append(Crit[i][k])
+                
+        
+        elif i==22: # emprunt signé depuis.. seulement si emprunt en vigueur
+            if variables[21] == "Prêt à signer":
+                while Crit[i][k]!="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+                
+            elif variables[21] == "Prêt signé":
+                while Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+
+            else:        
+                variables.append(Crit[i][k])
+                
+       
+    
+        elif i==15: # si +65 ans alors retraité, et inversement
+            if variables[0] >= 65:
+                while Crit[i][k]!="Retraité" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+    
+            else:
+                while Crit[i][k]=="Retraité" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+    
+    
+    
+        elif i==17: # si pas de profession alors pas de contrat, si salarié/cadre alors pas de TNS, si cadre alors pas de TNS/saisonnier
+            if variables[15] == "Recherche d'emploi" or variables[15] =="Au foyer" or variables[15] =="Etudiant" or variables[15] =="Retraité":
+                while Crit[i][k]!="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+            
+            elif variables[15] == "Salarié" or variables[15] =="Salarié cadre":
+                while Crit[i][k]=="TNS" or Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+              
+            
+            elif variables[15] =="Salarié cadre":
+                while Crit[i][k]=="Saisonnier" or Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+            
+            
+
+            else:
+                while Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+        
+        
+        elif i==18: # si pas de profession alors pas de tps travail
+            if variables[15] == "Recherche d'emploi" or variables[15] =="Au foyer" or variables[15] =="Etudiant" or variables[15] =="Retraité":
+                while Crit[i][k]!="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+
+            else:        
+                while Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+                
+                
+        elif i==19: # si pas de profession alors pas de deplacements pro
+            if variables[15] == "Recherche d'emploi" or variables[15] =="Au foyer" or variables[15] =="Etudiant" or variables[15] =="Retraité":
+                while Crit[i][k]!="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+
+            else:        
+                while Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+                
+                
+                
+        elif i==16: # si pas de profession alors pas d'outillage, et outillage réservé en priorité à certaines professions    
+            if variables[15] == "Recherche d'emploi" or variables[15] =="Au foyer" or variables[15] =="Etudiant" or variables[15] =="Retraité":
+                while Crit[i][k]!="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+
+            elif variables[15] == "Salarié cadre":
+                while Crit[i][k]=="Oui" or Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+        
+            elif variables[15] == "Agriculteur" or variables[15] == "Artisan" or variables[15] == "Chef d'entreprise" or variables[15] == "Commerçant":
+                while (Crit[i][k]!="Oui" or a==0) and e<500:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                    e=e+1
+                if Crit[i][k]!="": 
+                    variables.append(Crit[i][k])
+                else:
+                    while Crit[i][k]=="" or a==0:
+                        k=randint(0,len(NB[i])-1)
+                        a=NB[i][k]
+                    variables.append(Crit[i][k])
+        
+            
+            
+            else:        
+                while Crit[i][k]=="" or a==0:
+                    k=randint(0,len(NB[i])-1)
+                    a=NB[i][k]
+                variables.append(Crit[i][k])
+        
+             
+            
+            
+            
+        else:        
             variables.append(Crit[i][k])
+                
+            
+            
+            
         NB[i][k]=NB[i][k]-1 # 1 version du critère ajoutée, donc on passe son index à 0
         i=i+1
     liste_profil.append(profil(j+1,variables[0],variables[1],variables[2],variables[3],variables[4],
                                variables[5],variables[6],variables[7],variables[8],variables[9],
-                               variables[10],variables[11],variables[12],variables[13],variables[14],
-                               variables[15],variables[16],variables[17],variables[18],variables[19],
+                               variables[10],variables[11],variables[15],variables[17],variables[18],
+                               variables[19],variables[16],variables[13],variables[14],variables[12],
                                variables[20],variables[21],variables[22],variables[23]))
     j=j+1
 
-    
-    
+
+
+
+
+with open("Profiles_LF.csv", "a", newline="") as file :
+    Profiles_LF = csv.writer(file)
+    Profiles_LF.writerow(["level","id", "profil_id", "applicantcount", "loannb", "firstloan_amount", 
+              "firstloan_type", "firstloan_type_tax" , "firstloan_rate","firstloan_duration_years",
+              "firstloan_differ", "contract_start_days","primary_applicant_sex","primary_applicant_age",
+              "primary_applicant_marital_status","post_code","primary_applicant_occupation_code",
+              "primary_applicant_contract","primary_applicant_working_time","primary_applicant_travel",
+              "primary_applicant_risk","primary_applicant_smoke","primary_applicant_share","contract_start_date","object",
+              "loan_effective","loan_one_year","lending_bank"])    
+
 
 for p in range(0,len(liste_profil)):
     profil.imprl(liste_profil[p])
